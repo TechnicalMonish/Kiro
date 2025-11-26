@@ -1,0 +1,22 @@
+{
+  "name": "budgetpulse",
+  "version": "1.0.0",
+  "description": "Personal finance tracker for managing monthly budgets and expenses",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node tests/run-tests.js"
+  },
+  "keywords": [
+    "budget",
+    "finance",
+    "tracker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fast-check": "^4.3.0"
+  }
+}
